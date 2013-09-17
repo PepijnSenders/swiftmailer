@@ -1,0 +1,12 @@
+{
+    "name": "pepijnsenders/swiftmailer",
+    "authors": [
+        {
+            "name": "Pepijn Senders",
+            "email": "p.senders@live.nl"
+        }
+    ],
+    "require": {
+
+    }
+}
